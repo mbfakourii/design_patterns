@@ -1,4 +1,4 @@
-# design_patterns
+# Design patterns
 This repository contains different design patterns in Dart
 
 ## License
