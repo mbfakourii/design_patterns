@@ -1,4 +1,4 @@
-import 'package:design_patterns/factory/shape.dart';
+import 'shape.dart';
 
 class Square implements Shape {
   @override

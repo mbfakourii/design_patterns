@@ -1,5 +1,5 @@
-import 'package:design_patterns/factory/shape.dart';
-import 'package:design_patterns/factory/shape_factory.dart';
+import 'shape.dart';
+import 'shape_factory.dart';
 
 void main() {
   ShapeFactory shapeFactory = ShapeFactory();
